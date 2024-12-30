@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_fragment_two.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\navigation_navgraph.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\navigation\\navgraph.xml"
+    },
+    {
+        "merged": "com.example.shoppingmanagment.app-debug-51:/layout_fragment_two.xml.flat",
+        "source": "com.example.shoppingmanagment.app-main-53:/layout/fragment_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_fragment_one.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_fragment_three.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\fragment_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_cardrow.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\cardrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\layout_cardview.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\layout\\cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-debug-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.shoppingmanagment.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppingmanagment.app-debug-51:/layout_fragment_one.xml.flat",
+        "source": "com.example.shoppingmanagment.app-main-53:/layout/fragment_one.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.example.shoppingmanagment.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

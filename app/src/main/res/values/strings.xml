@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingManagment</string>
+
+        <string name="button_plus">+</string>
+        <string name="button_minus">-</string>
+
+</resources>
